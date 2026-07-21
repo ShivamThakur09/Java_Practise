@@ -4,3 +4,4 @@
 3. AssignmentOperator
 4. PrimitveDataType
 5. RelationalOperator
+6. LogicalOperator
