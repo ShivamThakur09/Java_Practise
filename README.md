@@ -5,3 +5,4 @@
 4. PrimitveDataType
 5. RelationalOperator
 6. LogicalOperator
+7. LogicalOperator
