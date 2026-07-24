@@ -7,3 +7,4 @@
 6. LogicalOperator
 7. TernaryOperator
 8. UnaryOperator
+9. VoteEligibility
