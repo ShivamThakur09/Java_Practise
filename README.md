@@ -13,3 +13,4 @@
 12. CelsiusFahrenheit
 13. CheckPositive
 14. MinuteHour
+15. VowelConsonant
