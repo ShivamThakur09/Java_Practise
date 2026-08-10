@@ -14,3 +14,4 @@
 13. CheckPositive
 14. MinuteHour
 15. VowelConsonant
+16. GradePredictor
